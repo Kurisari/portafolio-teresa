@@ -1,0 +1,254 @@
+{
+    "title": "Costas Olivares, Natalía María Teresa | Portafolio",
+    "description": "Licenciada en Administración y Mercadotecnia",
+    "image": "/avatar.jpg",
+    "avatar": "/avatar.jpg",
+    "name": "Costas Olivares, Natalía María Teresa",
+    "skill": "Lic. Psicopedagogía",
+    "location": "La Paz, Bolivia",
+    "media": {
+        "email": "techi.c10@hotmail.com",
+        "cv": "/data/cv.pdf",
+        "likedin": "https://www.linkedin.com/in/ariadnaortizgarcia/",
+        "tel": "+524491995463"
+    },
+    "about": "",
+    "experience": [
+        {
+            "icon": "briefcase",
+            "title": "Proyecto HABESHA",
+            "subtitle": "Coordinación de Comités Estudiantiles",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Acompañamiento",
+                "• Recaudación",
+                "• Difusión y Sensibilización",
+                "• Reclutamiento"
+            ],
+            "date": "Agosto 2021 - Julio 2021 (online) - Agosto 2021 - Julio 2023"
+        },
+        {
+            "icon": "briefcase",
+            "title": "My Little Sunshine Kinder Internacional",
+            "subtitle": "Horario Matutino (Kindergarten) - Horario Vespertino (Private lessons)",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Maestra Titular de Toddlers",
+                "• Maestra de clases personalizadas en:",
+                "   o Español con niños de 4 a 15 años",
+                "   o Ritmos Latinos (baile) niñas de 4 y 8 años",
+                "   o Gimnasia Artística con niña de 5 años",
+                "   o Fútbol con niño de 11 años"
+            ],
+            "date": "Agosto 2021 - Actualidad"
+        },
+        {
+            "icon": "briefcase",
+            "title": "My Little Sunshine Kinder Internacional",
+            "subtitle": "Horario Matutino (Kindergarten) - Horario Vespertino (Private lessons)",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Maestra Titular de K1 & Toddlers"
+            ],
+            "date": "Septiembre 2020 - Diciembre 2020 (online)"
+        },
+        {
+            "icon": "briefcase",
+            "title": "My Little Sunshine Kinder Internacional",
+            "subtitle": "Prácticas profesionales",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Proyecto \"Psicomotricidad y atención a la Diversidad\"",
+                "• Maestra en 3 niveles:",
+                "   o Toddlers - English and P.E., teacher",
+                "   o K1 - English teacher",
+                "   o K2&K3 - Spanish teacher"
+            ],
+            "date": "Enero 2020 - Junio 2020"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Dpto. Compromiso Social (trabajo becario)",
+            "subtitle": "Universidad Panamericana",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Coordinadora Académica con el Proyecto HABESHA",
+                "• Coordinadora de Labor Social en PUEDES con Universitarios",
+                "• Coordinadora de Labor Social en PUEDES con estudiantes de Preparatoria ENCINO"
+            ],
+            "date": "Agosto 2017 - Junio 2020"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Trabajo Integrador",
+            "subtitle": "Proyecto Bachillerato Tecnológico El Salto",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Colaboración al proyecto con: Propuesta de Intervención, Elaboración de Perfil de Egreso, Materias Extracurriculares e Instrumento de Evaluación Actitudes"
+            ],
+            "date": "Enero 2019"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Trabajo Integrador",
+            "subtitle": "Centro Escolar Tlahuili",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Estudio de Caso: \"Autismo y Lesión Cerebral\"",
+                "• Elaboración de materiales para el trabajo en las sesiones, planificación de las sesiones y realización de las mismas"
+            ],
+            "date": "Agosto 2018"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Trabajo Integrador",
+            "subtitle": "Colegio Termápolis",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Intervención Psicopedagógica: \"Hábitos de Trabajo\"",
+                "• Sombra de un niño con Afasia"
+            ],
+            "date": "Enero 2018"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Trabajo Integrador",
+            "subtitle": "DIF (Desarrollo Integral de la Familia), Área de Terapia Física Pediátrica y de Estimulación Temprana",
+            "description": "Aguascalientes, México",
+            "list":[
+                "• Propuesta de prototipo lúdico: \"Tren multiusos\""
+            ],
+            "date": "Agosto 2017"
+        },
+        {
+            "icon": "briefcase",
+            "title": "Pasantías",
+            "subtitle": "Colegio Ruso Boliviano",
+            "description": "La Paz, Bolivia",
+            "list":[
+                "• Trabajo con el grupo turno de la mañana con niños con diferentes capacidades"
+            ],
+            "date": "Octubre 2015"
+        }
+    ],
+    "projects": [
+        {
+            "icon": "book-open-check",
+            "title": "Catequesis",
+            "subtitle": "Apoyo con el nivel \"Introducción a la Fe\" de 5 a 8 años",
+            "description": "Aguascalientes, México",
+            "date": "Marzo 2022 - Actualidad (sábados)"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Voluntariado Social",
+            "subtitle": "Apoyo social y alfabetización",
+            "description": "La Paz, Bolivia",
+            "date": "Diciembre 2020 y Diciembre 2021"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Curso teórico/práctico en línea",
+            "subtitle": "Auxiliar en estimulación temprana, Manejo y conocimiento del trastorno infantil, Auxiliar en educación infantil y parvularia",
+            "description": "Santa Cruz, Bolivia",
+            "date": "Junio 2020"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Congreso GIA",
+            "subtitle": "Grupo de Industriales de Aguascalientes",
+            "description": "Aguascalientes, México",
+            "date": "Octubre 2019"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Voluntariado",
+            "subtitle": "",
+            "description": "Promociones rurales en Semana Santa, Hospital de la Mujer y Clínica General Aguascalientes, Asilo Nuestra Señora de Guadalupe",
+            "date": "Septiembre 2016 - Marzo 2020"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "DIFOSO",
+            "subtitle": "Diplomado en Formación Social",
+            "description": "UNETE. A.C. - Aguascalientes, México",
+            "date": "Agosto 2016 - Junio 2017"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Formación Espiritual",
+            "subtitle": "\"Casa del Sur\"",
+            "description": "Aguascalientes, México",
+            "date": "Julio 2016 - Actualidad"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "TEA",
+            "subtitle": "Taller de Expresión Artística",
+            "description": "Etiqueta Social y Protocolo Imagen Personal",
+            "date": "Febrero 2016"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Voluntariado",
+            "subtitle": "Servicio calle, catequesis",
+            "description": "La Paz, Bolivia",
+            "date": "2014 - 2015"
+        },
+        {
+            "icon": "book-open-check",
+            "title": "Formación Espiritual",
+            "subtitle": "\"Club Hontanar\"",
+            "description": "La Paz, Bolivia",
+            "date": "Abril 2011 - Junio 2016"
+        }
+    ],
+    "training": [
+        {
+            "icon": "album",
+            "title": "Seminario Curso Virtual Capacitación en Manejo del TDAH",
+            "subtitle": "Centro Neurológico Integral",
+            "description": "",
+            "date": "Febrero 2021 - Mayo 2023"
+        },
+        {
+            "icon": "brain",
+            "title": "Especialidad en Neuropsicología Educativa",
+            "subtitle": "Universidad Panamericana",
+            "description": "Aguascalientes, México",
+            "date": "Septiembre 2020 - Julio 2022"
+        },
+        {
+            "icon": "pencil",
+            "title": "Licenciatura en Psicopedagogía",
+            "subtitle": "Universidad Panamericana",
+            "description": "Aguascalientes, México",
+            "date": "Agosto 2016 - Junio 2020"
+        },
+        {
+            "icon": "speech",
+            "title": "Bachiller en Humanidades",
+            "subtitle": "Colegio Horizontes",
+            "description": "La Paz, Bolivia",
+            "date": "Febrero 2004 - Noviembre 2015"
+        }
+    ],
+    "extras": [],
+    "extra":[
+        {
+            "icon": "speech",
+            "title": "Idiomas",
+            "subtitle":"TOEIC (inglés), Italiano nivel medio",
+            "description": ""
+        },
+        {
+            "icon": "speech",
+            "title": "Intereses",
+            "subtitle":"Catequesis, Piano, Lectura, Escuchar, Danza, Deporte, Dibujo, Viajar",
+            "description": ""
+        }
+    ],
+    "skills_comp": [],
+    "skills_hab": [],
+    "languages": []
+}
