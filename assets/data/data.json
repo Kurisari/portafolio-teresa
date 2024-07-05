@@ -15,7 +15,7 @@
     "about": "",
     "experience": [
         {
-            "icon": "briefcase",
+            "icon": "folder-kanban",
             "title": "Proyecto HABESHA",
             "subtitle": "Coordinación de Comités Estudiantiles",
             "description": "Aguascalientes, México",
@@ -28,7 +28,7 @@
             "date": "Agosto 2021 - Julio 2021 (online) - Agosto 2021 - Julio 2023"
         },
         {
-            "icon": "briefcase",
+            "icon": "sun",
             "title": "My Little Sunshine Kinder Internacional",
             "subtitle": "Horario Matutino (Kindergarten) - Horario Vespertino (Private lessons)",
             "description": "Aguascalientes, México",
@@ -43,7 +43,7 @@
             "date": "Agosto 2021 - Actualidad"
         },
         {
-            "icon": "briefcase",
+            "icon": "sun",
             "title": "My Little Sunshine Kinder Internacional",
             "subtitle": "Horario Matutino (Kindergarten) - Horario Vespertino (Private lessons)",
             "description": "Aguascalientes, México",
@@ -53,7 +53,7 @@
             "date": "Septiembre 2020 - Diciembre 2020 (online)"
         },
         {
-            "icon": "briefcase",
+            "icon": "sun",
             "title": "My Little Sunshine Kinder Internacional",
             "subtitle": "Prácticas profesionales",
             "description": "Aguascalientes, México",
@@ -67,7 +67,7 @@
             "date": "Enero 2020 - Junio 2020"
         },
         {
-            "icon": "briefcase",
+            "icon": "file-axis-3d",
             "title": "Dpto. Compromiso Social (trabajo becario)",
             "subtitle": "Universidad Panamericana",
             "description": "Aguascalientes, México",
@@ -79,7 +79,7 @@
             "date": "Agosto 2017 - Junio 2020"
         },
         {
-            "icon": "briefcase",
+            "icon": "user-plus",
             "title": "Trabajo Integrador",
             "subtitle": "Proyecto Bachillerato Tecnológico El Salto",
             "description": "Aguascalientes, México",
@@ -89,7 +89,7 @@
             "date": "Enero 2019"
         },
         {
-            "icon": "briefcase",
+            "icon": "library-big",
             "title": "Trabajo Integrador",
             "subtitle": "Centro Escolar Tlahuili",
             "description": "Aguascalientes, México",
@@ -111,7 +111,7 @@
             "date": "Enero 2018"
         },
         {
-            "icon": "briefcase",
+            "icon": "contact",
             "title": "Trabajo Integrador",
             "subtitle": "DIF (Desarrollo Integral de la Familia), Área de Terapia Física Pediátrica y de Estimulación Temprana",
             "description": "Aguascalientes, México",
@@ -121,7 +121,7 @@
             "date": "Agosto 2017"
         },
         {
-            "icon": "briefcase",
+            "icon": "ticket-check",
             "title": "Pasantías",
             "subtitle": "Colegio Ruso Boliviano",
             "description": "La Paz, Bolivia",
@@ -133,70 +133,70 @@
     ],
     "projects": [
         {
-            "icon": "book-open-check",
+            "icon": "church",
             "title": "Catequesis",
             "subtitle": "Apoyo con el nivel \"Introducción a la Fe\" de 5 a 8 años",
             "description": "Aguascalientes, México",
             "date": "Marzo 2022 - Actualidad (sábados)"
         },
         {
-            "icon": "book-open-check",
+            "icon": "hand-helping",
             "title": "Voluntariado Social",
             "subtitle": "Apoyo social y alfabetización",
             "description": "La Paz, Bolivia",
             "date": "Diciembre 2020 y Diciembre 2021"
         },
         {
-            "icon": "book-open-check",
+            "icon": "book-open-text",
             "title": "Curso teórico/práctico en línea",
             "subtitle": "Auxiliar en estimulación temprana, Manejo y conocimiento del trastorno infantil, Auxiliar en educación infantil y parvularia",
             "description": "Santa Cruz, Bolivia",
             "date": "Junio 2020"
         },
         {
-            "icon": "book-open-check",
+            "icon": "library-big",
             "title": "Congreso GIA",
             "subtitle": "Grupo de Industriales de Aguascalientes",
             "description": "Aguascalientes, México",
             "date": "Octubre 2019"
         },
         {
-            "icon": "book-open-check",
+            "icon": "hand-helping",
             "title": "Voluntariado",
             "subtitle": "",
             "description": "Promociones rurales en Semana Santa, Hospital de la Mujer y Clínica General Aguascalientes, Asilo Nuestra Señora de Guadalupe",
             "date": "Septiembre 2016 - Marzo 2020"
         },
         {
-            "icon": "book-open-check",
+            "icon": "users",
             "title": "DIFOSO",
             "subtitle": "Diplomado en Formación Social",
             "description": "UNETE. A.C. - Aguascalientes, México",
             "date": "Agosto 2016 - Junio 2017"
         },
         {
-            "icon": "book-open-check",
+            "icon": "church",
             "title": "Formación Espiritual",
             "subtitle": "\"Casa del Sur\"",
             "description": "Aguascalientes, México",
             "date": "Julio 2016 - Actualidad"
         },
         {
-            "icon": "book-open-check",
+            "icon": "palette",
             "title": "TEA",
             "subtitle": "Taller de Expresión Artística",
             "description": "Etiqueta Social y Protocolo Imagen Personal",
             "date": "Febrero 2016"
         },
         {
-            "icon": "book-open-check",
+            "icon": "hand-helping",
             "title": "Voluntariado",
             "subtitle": "Servicio calle, catequesis",
             "description": "La Paz, Bolivia",
             "date": "2014 - 2015"
         },
         {
-            "icon": "book-open-check",
+            "icon": "church",
             "title": "Formación Espiritual",
             "subtitle": "\"Club Hontanar\"",
             "description": "La Paz, Bolivia",
@@ -236,13 +236,13 @@
     "extras": [],
     "extra":[
         {
-            "icon": "speech",
+            "icon": "languages",
             "title": "Idiomas",
             "subtitle":"TOEIC (inglés), Italiano nivel medio",
             "description": ""
         },
         {
-            "icon": "speech",
+            "icon": "message-circle-heart",
             "title": "Intereses",
             "subtitle":"Catequesis, Piano, Lectura, Escuchar, Danza, Deporte, Dibujo, Viajar",
             "description": ""
