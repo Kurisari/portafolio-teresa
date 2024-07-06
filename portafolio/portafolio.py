@@ -8,6 +8,7 @@ from portafolio.views.header import header
 from portafolio.views.info import info
 from portafolio.views.skills import skills
 from portafolio.components.color_button import color_button
+from portafolio.views.info_t import info_t
 
 DATA = data.data
 
@@ -20,7 +21,7 @@ def index() -> rx.Component:
             header(DATA),
             # about(DATA.about),
             rx.divider(),
-            info("Formación Academica", DATA.training),
+            info_t("Formación Academica", DATA.training),
             info("Formación Complentaria", DATA.projects),
             info("Experiencia Laboral", DATA.experience),
             info("Información Adicional", DATA.extra),
@@ -35,7 +36,8 @@ def index() -> rx.Component:
             padding_y=EmSize.BIG.value,
             max_width=MAX_WIDTH,
             width="100%"
-        )
+        ),
+        background_color="#AEDDE020"
     )
 
 
@@ -45,7 +47,7 @@ app = rx.App(
     theme=rx.theme(
         appearance="light",
         accent_color="jade",
-        radius="small"
+        radius="small",
     )
 )
 
