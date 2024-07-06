@@ -1,6 +1,7 @@
 import reflex as rx
 from portafolio.components.icon_badge import icon_badge
 from portafolio.components.icon_button import icon_button
+from portafolio.components.image_badge import image_badge
 from portafolio.data import Info
 from portafolio.styles.styles import IMAGE_HEIGHT, EmSize, Size
 
@@ -8,7 +9,14 @@ from portafolio.styles.styles import IMAGE_HEIGHT, EmSize, Size
 def info_detail(info: Info) -> rx.Component:
     return rx.flex(
         rx.hstack(
-            icon_badge(info.icon),
+            rx.cond(
+                info.icon != "",
+                icon_badge(info.icon),
+            ),
+            rx.cond(
+                info.image_icon != "",
+                image_badge(info.image_icon),
+            ),
             rx.vstack(
                 rx.text.strong(info.title),
                 rx.text(info.subtitle),
