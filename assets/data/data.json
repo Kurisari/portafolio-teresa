@@ -212,21 +212,21 @@
             "date": "Febrero 2021 - Mayo 2023"
         },
         {
-            "icon": "brain",
+            "image_icon": "up.ico",
             "title": "Especialidad en Neuropsicología Educativa",
             "subtitle": "Universidad Panamericana",
             "description": "Aguascalientes, México",
             "date": "Septiembre 2020 - Julio 2022"
         },
         {
-            "icon": "pencil",
+            "image_icon": "up.ico",
             "title": "Licenciatura en Psicopedagogía",
             "subtitle": "Universidad Panamericana",
             "description": "Aguascalientes, México",
             "date": "Agosto 2016 - Junio 2020"
         },
         {
-            "icon": "speech",
+            "image_icon": "horizontes.ico",
             "title": "Bachiller en Humanidades",
             "subtitle": "Colegio Horizontes",
             "description": "La Paz, Bolivia",
