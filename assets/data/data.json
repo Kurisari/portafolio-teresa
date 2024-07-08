@@ -205,7 +205,7 @@
     ],
     "training": [
         {
-            "icon": "album",
+            "image_icon": "sercrecer.ico",
             "title": "Seminario Curso Virtual Capacitación en Manejo del TDAH",
             "subtitle": "Centro Neurológico Integral",
             "description": "",
